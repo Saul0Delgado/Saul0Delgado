@@ -13,5 +13,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saul0delgado&show_icons=true&locale=en&layout=compact" alt="saul0delgado" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saul0delgado&show_icons=true&locale=en" alt="saul0delgado" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saul0delgado&" alt="saul0delgado" /></p>
